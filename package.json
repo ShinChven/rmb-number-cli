@@ -1,6 +1,6 @@
 {
   "name": "rmb-number-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "阿拉伯数字转大写中文金额 命令行工具",
   "main": "index.js",
   "scripts": {
@@ -9,6 +9,9 @@
   "author": {
     "name": "ShinChven ZHANG",
     "email": "shinchven@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/ShinChven/rmb-number-cli.git"
   },
   "license": "ISC",
   "bin": {
